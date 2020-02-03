@@ -10,6 +10,8 @@ Docker is computer software used for Virtualization in order to have multiple Op
 
 Unlike the VMs which can communicate with the hardware of the host (ex: Ethernet adapter to create more virtual adapters) Docker containers run in an isolated environment on top of the host's OS. Even if your host runs Windows OS, you can have Linux images running in containers with the help of Hyper-V, which automatically creates small VM to virtualize the system's base image, in this case, Linux.
 
+![docker](/docker1.png)
+
 # Docker Architecture
 Let's talk about Docker main components in the Docker Architecture
 
