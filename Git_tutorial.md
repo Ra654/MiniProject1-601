@@ -105,6 +105,8 @@ GitHub builds collaboration directly into the development process. Work is organ
 
 # The GitHub flow
 
+![Git flow](/Git_Architechture.png)
+
 The GitHub flow is a lightweight, branch-based workflow built around core Git commands used by teams around the globe—including ours.
 
 The GitHub flow has six steps, each with distinct benefits when implemented:
