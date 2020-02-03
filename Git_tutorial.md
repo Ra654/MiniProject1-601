@@ -80,6 +80,18 @@ Use the git remote rm command to remove a remote URL from your repository.
 * **git master branch**
 A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
 
+Learn more from [a full reference guide to Git commands.](https://git-scm.com/docs)
+
+
+# Explore more Git commands
+
+For a detailed look at Git practices, the videos below show how to get the most out of some Git commands.
+
+* [Working locally](https://www.youtube.com/watch?v=rBbbOouhI-s&index=2&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4)
+* [git status](https://www.youtube.com/watch?v=SxmveNrZb5k&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=3)
+* [Two-step commits](https://www.youtube.com/watch?v=Vb0Ghkkc2hk&index=4&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4)
+* [git pull and git push](https://www.youtube.com/watch?v=-uQHV9GOA0w&index=5&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4)
+
 
 * ** 
 
@@ -108,3 +120,5 @@ The GitHub flow has six steps, each with distinct benefits when implemented:
 5. **Merge:** Upon clicking merge, GitHub automatically performs the equivalent of a local ‘git merge’ operation. GitHub also keeps the entire branch development history on the merged pull request.
 
 6. **Deploy:** Teams can choose the best release cycles or incorporate continuous integration tools and operate with the assurance that code on the deployment branch has gone through a robust workflow.
+
+For more reference Please visit the following [link!](https://www.edureka.co/blog/git-tutorial/) and watch this **[video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)** for an interactive version of explanation of git and git work flow.
