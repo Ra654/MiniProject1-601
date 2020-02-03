@@ -3,7 +3,7 @@ This project helps one to understand how to use **Terminal, Git, Docker** and ho
 
 # So let's get started and master all these tools!
 
-* [VI Tutorial](/VI_Tutirial.md)
+* [VI Tutorial](/VI_Tutorial.md)
 * [Git Tutorial](/Git_tutorial.md)
 * [Gitflow Tutorial](/Gitflow_tutorial.md)
 * [Docker Tutorial](/Docker_tutorial.md) 
