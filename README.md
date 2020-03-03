@@ -7,5 +7,5 @@ This project helps one to understand how to use **Terminal, Git, Docker** and ho
 * [Git Tutorial](/Git_tutorial.md)
 * [Docker Tutorial](/Docker_Tutorial.md) 
 * [Automated testing](/Automated_testing.md)
-* [Continous integration(/Continous_integration.md)
+
  
